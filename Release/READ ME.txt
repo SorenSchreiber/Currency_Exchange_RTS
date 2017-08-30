@@ -1,0 +1,15 @@
+-Pre trained and saved network can be found inside the presaved_networks folder
+
+-The folder trainingData contains training data for scaling and trending networks for 3 different currency exchanges
+
+-to use the trainign data the new network will have to be configured in a speficif way
+
+Scaling:
+Input nodes:20
+Hidden Nodes/Layers: up to user
+Output nodes:1 ->Scaling -1 to 1
+rest up to user
+
+Trending:
+Input nodes 20
+rest up to user

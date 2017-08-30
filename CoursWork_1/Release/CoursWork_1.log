@@ -1,0 +1,10 @@
+﻿  MainWindow.cpp
+c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\NewNN.h(454): warning C4677: 'newNeuralNetwork': signature of non-private member contains assembly private type 'NeuralNetwork'
+  c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\NeuralNetwork.h(11): note: see declaration of 'NeuralNetwork'
+c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\NewNN.h(457): warning C4677: 'NeuralNetworkList': signature of non-private member contains assembly private type 'NeuralNetwork'
+  c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\NeuralNetwork.h(11): note: see declaration of 'NeuralNetwork'
+c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\MainWindow.h(2330): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\MainWindow.h(2332): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\andreea\desktop\rtp\cw1\courswork_1\courswork_1\MainWindow.h(2338): warning C4804: '<': unsafe use of type 'bool' in operation
+  CoursWork_1.vcxproj -> C:\Users\Andreea\Desktop\RTP\cw1\CoursWork_1\Release\CoursWork_1.exe
+  CoursWork_1.vcxproj -> C:\Users\Andreea\Desktop\RTP\cw1\CoursWork_1\Release\CoursWork_1.pdb (Full PDB)
